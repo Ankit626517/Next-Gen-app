@@ -1,0 +1,17 @@
+#header-box{
+    /* background-image: url('./assets/Images/geometric-purple-neon-3d-cuboid-background_53876-105271.jpg'); */
+    background-repeat: no-repeat;
+    background-size: 100% 900px;
+ 
+  
+    height: 100%;
+    color: aqua;
+}
+
+.Content-Font-Family{
+font-family: 'Times New Roman', Times, serif ;
+font-style: italic;
+color: white;
+letter-spacing: 1px;
+margin-top: 20px;
+}
