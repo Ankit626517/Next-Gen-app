@@ -7,6 +7,7 @@ import 'aos/dist/aos.css'
 import Nav from './assets/Nav'
 import SectionFirst from './assets/SectionFirst'
 import SectionSecond from './assets/SectionSecond';
+import SectionThird from './assets/SectionThird';
 
 function App() {
 
@@ -21,6 +22,7 @@ function App() {
         <Nav />
         <SectionFirst />
         <SectionSecond  />
+        <SectionThird/>
       </div>
     </>
   )
