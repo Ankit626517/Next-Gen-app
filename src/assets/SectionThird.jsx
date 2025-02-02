@@ -22,7 +22,7 @@ Do more than ever with up to six virtual screens you can anchor, all while keepi
         friends as you team up <br/> for games and challenges.Surround 
         yourself with your favorite apps <br/> 
      Do more than ever with up to six virtual screens you can anchor, <br/> 
-     all while keeping your space in sight. </pre>
+      </pre>
      </div>
     </div>
     
