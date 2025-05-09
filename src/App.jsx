@@ -8,6 +8,7 @@ import Nav from './assets/Nav'
 import SectionFirst from './assets/SectionFirst'
 import SectionSecond from './assets/SectionSecond';
 import SectionThird from './assets/SectionThird';
+import SectionFour from './assets/SectionFour';
 
 function App() {
 
@@ -23,6 +24,7 @@ function App() {
         <SectionFirst />
         <SectionSecond  />
         <SectionThird/>
+        <SectionFour/>
       </div>
     </>
   )
