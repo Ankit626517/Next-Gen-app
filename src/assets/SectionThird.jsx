@@ -60,7 +60,7 @@ function SectionThird() {
         className="rounded-[6rem] w-full h-auto shadow-lg"
       />
     </div>
-    <div className="max-w-xl text-white z-10" data-aos="fade-left" data-aos-duration="1200">
+    {/* <div className="max-w-xl text-white z-10" data-aos="fade-left" data-aos-duration="1200">
       <h1 className="text-4xl md:text-6xl font-extrabold text-white drop-shadow-lg">
         Get together, from wherever
       </h1>
@@ -71,8 +71,8 @@ function SectionThird() {
       <button className="mt-6 px-6 py-3 bg-white text-blue-600 font-bold rounded-full hover:bg-blue-100 transition duration-300">
         Explore More
       </button>
-    </div>
-  </div>
+    </div>*/}
+  </div> 
 
   {/* Section 2 – Collaboration Features */}
   <div className="bg-gradient-to-r from-purple-600 via-pink-500 to-red-400 p-10 rounded-3xl shadow-xl text-white mb-10">

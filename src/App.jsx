@@ -9,6 +9,7 @@ import SectionFirst from './assets/SectionFirst'
 import SectionSecond from './assets/SectionSecond';
 import SectionThird from './assets/SectionThird';
 import SectionFour from './assets/SectionFour';
+import Footer from './assets/Footer';
 
 function App() {
 
@@ -26,8 +27,10 @@ function App() {
         <SectionThird/>
         <SectionFour/>
       </div>
+      <Footer/>
     </>
   )
 }
 
 export default App
+ 
